@@ -1,0 +1,7 @@
+class books:
+    def keybook(name, author):
+        
+        print("books_name is:",name)
+        print("books_authour:",authour)
+santhosh=books(name, authour)
+santhosh.keybook("The_lion","santhoshkumar")
